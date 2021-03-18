@@ -13,7 +13,7 @@
         <dependency>
             <groupId>org.elasticsearch</groupId>
             <artifactId>elasticsearch</artifactId>
-            <version>6.8.10</version>
+            <version>6.8.13</version>
         </dependency>
         <!--        2.elasticsearch 高级API-->
         <dependency>
